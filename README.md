@@ -1,5 +1,5 @@
 # Machine-Learning-NLP
-Natural Language Processing + Machine Learning to identify posts of students on Piazza platform
+Natural Language Processing + Machine Learning to identify posts of students on Piazza platform. Contact me at srodricks39@gmail.com for the source code. 
 
 
 ![image](https://user-images.githubusercontent.com/27297164/149369991-cd4a63e8-2715-4dd4-8697-e92637dc3412.png)
